@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 22%, rgba(213,242,255,1) 100%);
+}
+
+#canvas {
+  background-color: white;
+  border: 1px solid rgb(0, 143, 146);
+  border-radius: 100%;
+}
